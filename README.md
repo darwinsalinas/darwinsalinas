@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-<!--
-**darwinsalinas/darwinsalinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Laravel and Vue
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on awesome projects
 - 🤔 I’m looking for help with Design patterns and inprove my English
 - ⚡ I enjoy playing piano
--->
+
 
 
 CSS Battle
