@@ -6,6 +6,8 @@
 - 🤔 I’m looking for help with Design patterns and inprove my English
 - ⚡ I enjoy playing piano
 
+Fast API
+- [Simple Twitter FastAPI](https://fi2n7h.deta.dev/docs)
 
 
 CSS Battle
