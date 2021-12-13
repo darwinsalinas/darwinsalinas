@@ -7,7 +7,7 @@
 - ⚡ I enjoy playing piano
 
 Fast API
-- [Simple Twitter FastAPI](https://fi2n7h.deta.dev/docs)
+- [Simple Twitter FastAPI](https://hidfzr.deta.dev/docs)
 
 
 CSS Battle
