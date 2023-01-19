@@ -6,6 +6,9 @@
 - 🤔 I’m looking for help with Design patterns and inprove my English
 - ⚡ I enjoy playing piano
 
+PHP
+- [Simple PHP package to generate school names](https://github.com/darwinsalinas/school-names-faker)
+
 Fast API
 - [Simple Twitter FastAPI](https://hidfzr.deta.dev/docs)
 
