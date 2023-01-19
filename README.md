@@ -7,7 +7,7 @@
 - ⚡ I enjoy playing piano
 
 PHP
-- [Simple PHP package to generate school names](https://github.com/darwinsalinas/school-names-faker)
+- [Simple PHP package to generate school names using faker](https://github.com/darwinsalinas/school-names-faker)
 
 Fast API
 - [Simple Twitter FastAPI](https://hidfzr.deta.dev/docs)
